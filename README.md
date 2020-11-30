@@ -1,4 +1,4 @@
-### Hi i,m Rahul Vats  👋
+### Hi I,m Rahul Vats  👋
 
 - 🔭 I’m currently working at Masai School
 - 🌱 I’m currently learning No Sql database

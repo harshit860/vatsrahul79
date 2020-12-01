@@ -1,7 +1,7 @@
 ### Hi I,m Rahul Vats  👋
 
 - 🔭 I’m currently working at Masai School
-- 🌱 I’m currently learning No Sql database
+- 🌱 I’m currently learning Sql database
 - 💬 Ask me about React :) 
 - 📫 How to reach me: [Twitter @iamRKvats](https://twitter.com/iamRkvats),[Linkedin @vatsrahul](https://www.linkedin.com/in/vatsrahul/)
 - 😄 Pronouns: He/His
